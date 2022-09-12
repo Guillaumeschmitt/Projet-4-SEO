@@ -680,6 +680,10 @@ p {
     font-size: 16px;
 }
 
+.citation, .citation-pdg{
+    font-size: 20px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -724,6 +728,7 @@ h3 {
 
 h1 {
     color: #333333!important;
+    font-size: 20px;
 }
 
 h4 {
