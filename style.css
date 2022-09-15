@@ -332,7 +332,7 @@ a:hover {
     text-align: inherit;
 }
 navbar-nav a:hover{
-    font-weight: bold;
+    color: crimson;
 }
 .nav > li a:hover,
 .nav > li a:focus {
