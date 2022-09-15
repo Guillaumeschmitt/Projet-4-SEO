@@ -331,7 +331,9 @@ a:hover {
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
-
+navbar-nav:hover{
+    font-weight: 500;
+}
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
