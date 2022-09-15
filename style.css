@@ -331,8 +331,8 @@ a:hover {
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
-navbar-nav li:hover{
-    color: crimson;
+navbar-nav a:hover{
+    font-weight: bold;
 }
 .nav > li a:hover,
 .nav > li a:focus {
