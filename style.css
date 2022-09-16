@@ -790,14 +790,14 @@ h4 {
 .tc-white {
     color: #FFFFFF!important;
 }
-#titre-contact{
+.tc-black{
     color: #000000;
+}
+.tc-black p{
+    color: #000000;
+    font-weight: bold;
 }
 
-#p-contact{
-    font-weight: bold;
-    color: #000000;
-}
 
 .btn-atomic-tangerine {
     background: #364577;
