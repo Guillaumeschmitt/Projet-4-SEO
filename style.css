@@ -790,11 +790,11 @@ h4 {
 .tc-white {
     color: #FFFFFF!important;
 }
-.titre-contact{
+#titre-contact{
     color: #000000;
 }
 
-.p-contact{
+#p-contact{
     font-weight: bold;
     color: #000000;
 }
