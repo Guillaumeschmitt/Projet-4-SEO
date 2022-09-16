@@ -788,7 +788,15 @@ h4 {
 }
 
 .tc-white {
-    color: #000000!important;
+    color: #FFFFFF!important;
+}
+.titre-contact{
+    color: #000000;
+}
+
+.p-contact{
+    font-weight: bold;
+    color: #000000;
 }
 
 .btn-atomic-tangerine {
